@@ -11,9 +11,9 @@ raja heppyanto
 
 ## 1. tugas membuat layout sederhanan menggunakan css framework twitter bootstrap
 output + code
-![foto1](ft/foto1.png)
+![fotoa](ft/fotoa.png)
 code
-![foto2](ft/foto2.png)
+![fotob](ft/fotob.png)
 output
 ![foto3](ft/foto3.png)
 
